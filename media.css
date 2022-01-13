@@ -1,6 +1,6 @@
 /* media per dispositivi fino a 420px */
 
-@media screen and (max-width:820px) {
+@media screen and (max-width:420px) {
 
     body{
         margin: 0;
